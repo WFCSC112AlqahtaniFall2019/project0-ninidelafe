@@ -1,0 +1,3 @@
+/Users/ninidelafe/CLionProjects/project0-ninidelafe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ninidelafe/CLionProjects/project0-ninidelafe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ninidelafe/CLionProjects/project0-ninidelafe/cmake-build-debug/CMakeFiles/untitled.dir
